@@ -1,0 +1,64 @@
+.landingpage-con{
+    background-color: #6974ef;
+    width:100vw;
+    height:100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.card-con{
+    border-radius: 10%;
+    position: absolute;
+    background-color: #FFFFFF;
+    width:40%;
+    height:70%;
+    overflow: hidden;
+    
+}
+.select-div{
+    height:6rem;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #efefef;
+    color:#535353;
+  
+}
+
+.all-content{
+    flex:1 100%;
+     overflow-y: auto;
+     white-space: nowrap;
+     height:100%
+}
+
+.single-content{
+    height:2rem;
+
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.single-content:hover{
+    cursor: pointer;
+}
+.profile{
+    width:3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+
+.name{
+    color:#666666;
+    margin-left: 1rem;
+}
+.line{
+    width:90%;
+    color:#d6d6d6;
+    border-color: #e7e4e4;
+    background-color: #d6d6d6;
+}
