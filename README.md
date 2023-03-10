@@ -4,4 +4,4 @@ To start this assignment you have to run npm install command first and then npm 
 This will open new react app in browser.
 
 
-"C:\Users\muiez\Desktop\leetcode\Screenshot 2023-03-10 142130.jpg"
+![image](https://user-images.githubusercontent.com/122368774/224269715-721c50c7-f845-41fa-ac4a-838f80cabe11.png)
