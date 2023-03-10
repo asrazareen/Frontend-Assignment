@@ -1,10 +1,11 @@
 # Frontend-Assignment
 
 To start this assignment you have to run npm install command first and then npm start.
-#This will open new react app in browser.
+This will open new react app in browser.
 
-#You will land into this page.
-![image](https://user-images.githubusercontent.com/122368774/224269715-721c50c7-f845-41fa-ac4a-838f80cabe11.png)
+You will land into this page.
+![image](https://user-images.githubusercontent.com/122368774/224273088-6d329b5d-b14f-42b1-8679-59651f8ae1dc.png)
+
 
 
 You can select any user and that will display the user's details in next page
