@@ -9,7 +9,8 @@ To start this assignment you have to run npm install command first and then npm 
 
 You can select any user and that will display the user's details in next page
 
-![image](https://user-images.githubusercontent.com/122368774/224270134-bb2e0a44-d897-44be-8e91-f8b533e33dc4.png)
+![image](https://user-images.githubusercontent.com/122368774/224272855-2ba4328c-011d-4528-a557-15b58c658b38.png)
+
 
 You can also view Chats component where all the users other that the user logged in can be seen.
 
